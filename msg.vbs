@@ -1,0 +1,1 @@
+MsgBox "SO COMAN LE HACK ?!", vbOKOnly + vbCritical, "Scriptkiddies"
